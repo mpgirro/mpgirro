@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```kotlin
-val MaxIrro = developer {
+val me = developer {
     about {
         name = "Maximilian Irro"
         company = "viesure innovation center"
